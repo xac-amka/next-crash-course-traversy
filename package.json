@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-crash-course",
+  "version": "1.0.0",
+  "description": "- Server-rendered React apps\r  - Automatic code splitting\r  - Simple page based routing\r  - Built in CSS support\r  - Hot Reloading\r  - Deployment is very simple",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Amkaaa",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
